@@ -1,5 +1,5 @@
 {
-  "name": "edurekadevops-hellonode",
+  "name": "sudheer00/hellonode",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
